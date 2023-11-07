@@ -30,7 +30,7 @@ twitter_username: tzmemo
 github_username:  tzmemo
 
 # Build settings
-theme: dinky
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
