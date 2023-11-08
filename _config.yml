@@ -30,9 +30,9 @@ url: "https://tzmemo.github.io" # the base hostname & protocol for your site, e.
 github_username:  tzmemo
 
 # Build settings
-#theme: minima
+theme: minima
 #remote_theme: pages-themes/hacker@v0.2.0
-remote_theme: pages-themes/modernist@v0.2.0
+#remote_theme: pages-themes/modernist@v0.2.0
 
 
 plugins:
